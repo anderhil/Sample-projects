@@ -1,7 +1,7 @@
 Sample projects have two projects inside:
 
-1. [Minumun Triangle Path]
-2. [Multiply Table]
+1. [Minumun Triangle Path](#minimum-triangle-path)
+2. [Multiply Table](#multiply-table)
 
 # Minimum Triangle Path #
 
