@@ -1,7 +1,7 @@
 Sample projects have two projects inside:
 
-1. [ Minumun Triangle Path]( https://bitbucket.org/anderhil/sample-projects/wiki/Home#markdown-header-minimum-triangle-path)
-2. [ Multiply Table]( https://bitbucket.org/anderhil/sample-projects/wiki/Home#markdown-header-multiply-table)
+1. [Minumun Triangle Path]
+2. [Multiply Table]
 
 # Minimum Triangle Path #
 
